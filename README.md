@@ -1,4 +1,4 @@
-# 👋Welcome to the master resources repository
+# 👋 | Welcome to the master resources repository
 
 A place where all the resources from AHJIN Code Conclave's discord server are stored
 
